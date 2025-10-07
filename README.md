@@ -94,5 +94,4 @@ Además, contará con un **mapa interactivo de Google Maps** para localizar fác
 ---
 
 ## 🖼️ Logo  
-```markdown
-![Logo del proyecto](/PI_Sergio_Dominguez/logo/logofinal.svg)
+![Logo del proyecto](https://github.com/seergiod/PI_Sergio_Dominguez/edit/main/logo/logofinal.svg)
