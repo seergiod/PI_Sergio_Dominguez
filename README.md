@@ -1,4 +1,4 @@
-# 🌐 Plataforma de Reseñas Laborales  
+# 🌐 REVIEWORK
 **Autor:** Sergio Domínguez  
 **Curso:** DAW  
 
@@ -95,3 +95,4 @@ Además, contará con un **mapa interactivo de Google Maps** para localizar fác
 
 ## 🖼️ Logo  
 ![Logo del proyecto](https://github.com/seergiod/PI_Sergio_Dominguez/edit/main/logo/logofinal.svg)
+
