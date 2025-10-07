@@ -89,12 +89,10 @@ Además, contará con un **mapa interactivo de Google Maps** para localizar fác
 
 - **Frontend:** HTML5  
 - **Backend:** JavaScript  
-- **Integraciones:** Google Maps API  
 - **Repositorio:** [PI_Sergio_Dominguez](https://github.com/seergiod/PI_Sergio_Dominguez)  
 
 ---
 
 ## 🖼️ Logo  
-*(Coloca tu logo aquí cuando lo tengas)*  
 ```markdown
 ![Logo del proyecto](logo/logofinal.svg)
