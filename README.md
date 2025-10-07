@@ -1,4 +1,4 @@
-# 🌐 Plataforma de Reseñas Laborales  
+# 🌐 REVIEWORK
 **Autor:** Sergio Domínguez  
 **Curso:** DAW  
 
