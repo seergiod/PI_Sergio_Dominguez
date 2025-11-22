@@ -1,4 +1,4 @@
-# 🌐 REVIEWORK
+# 🌐 REVIEWORK                      ![logopk](logo/logopk.svg)
 **Autor:** Sergio Domínguez  
 **Curso:** DAW  
 
@@ -93,6 +93,5 @@ Además, contará con un **mapa interactivo de Google Maps** para localizar fác
 
 ---
 
-## 🖼️ Logo  
-![logo](logo/logofinal.pdf)
+
 
