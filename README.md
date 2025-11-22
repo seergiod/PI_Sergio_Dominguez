@@ -1,4 +1,4 @@
-# 🌐 REVIEWORK                      ![logopk](logo/logopk.svg)
+# 🌐 REVIEWORK                      ![logopk](logo/logofinal.svg)
 **Autor:** Sergio Domínguez  
 **Curso:** DAW  
 
